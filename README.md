@@ -5,9 +5,9 @@ install ws:
 
 `npm i ws`
 
-Run (you might have to install ts-node):
+Run:
 
-`npx ts-node main.ts`
+`node main.js`
 
 ## Generated certificates
 
